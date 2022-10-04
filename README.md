@@ -1,7 +1,5 @@
-# Hi im coolGi2007
+# Hi im coolGi
 
-I program in Java or C++ but can program in any language if you give me the task to
-
-My favrout games are Minecraft, No Mans Sky, Astroneer, Factorio and Dont Starve
-
-If you need me to code anything then just call me on discord at coolGi2007#5809
+### I have moved over to [GitLab](https://gitlab.com/coolGi) so please check my profile there
+I dont code my personal projects on GitHub anymore and only use this account for contributing to other peoples code.\
+If you want to contact me, my Discord is `coolGi2007#5809`. Otherwise please use my GitLab viewing my firther projects.
